@@ -1,0 +1,102 @@
+#cartText {
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: black;
+  font-size: 100px;
+  opacity: 0.7;
+  bottom: 200px;
+  opacity: .6;
+  margin-top: 0px;
+}
+
+#exterminate {
+  background-color: silver;
+  width: 10%;
+  padding: 10px;
+  float: right;
+  color: #448AC9;
+  text-align: center;
+  font-family: "Open Sans Light", "Helvetica Neue", sans-serif;
+  border-radius: 25px;
+  font-size: 10px;
+}
+
+}
+
+
+#cartFunction {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: black;
+  font-size: 30px;
+  opacity: 0.7;
+  bottom: 90px;
+  position: relative;
+  opacity: .7;
+  text-align: center;
+
+}
+
+
+#loginbutton {
+  background-color: silver;
+  width: 10%;
+  padding: 10px;
+  position: absolute;
+  top: 5px;
+  float: right;
+  color: #448AC9;
+  text-align: center;
+  font-family: "Open Sans Light", "Helvetica Neue", sans-serif;
+  border-radius: 25px;
+  font-size: 30px;
+}
+
+#emptylist {
+  background-color: grey;
+  padding: 90px;
+  text-align: center;
+  border-radius: 25px;
+}
+
+#textlist{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 30px;
+  text-align: center;
+  height: 200px;
+}
+
+#fulllist {
+  background-color: grey;
+  padding: 33px;
+  border-radius: 25px;
+}
+
+.fade
+{
+        opacity:0.8;
+}
+.fade:hover
+{
+  opacity:1;
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+#usercheck {
+    font-family: "Open Sans Light", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    margin: 34px 20px;
+}
+
+#logo {
+  width: 150px;
+  height: 100px;
+  top: 50px;
+  left: 50px;
+  float: left;
+}
+
+#aboutlink, #usercheck {
+  display:inline-block;
+  float:right;
+}
